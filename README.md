@@ -49,7 +49,7 @@ To use the Phone Book Application, you can follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/KhyatiSatija/Smart_PhoneBook.git
+   git clone https://github.com/rida2911/Smart_PhoneBook.git
    ```
 
 2. Compile the source code using a C++ compiler:
